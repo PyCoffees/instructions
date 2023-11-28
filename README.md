@@ -1,4 +1,4 @@
-# General instructions for the PyCoffees @ CAB
+# General information for the PyCoffees @ CAB
 
 ### Goals 
 Meet for 30 minutes (maximum) on alternate Wednesdays (every two weeks) from 10:30-11:00 in the Villafranca library so that one of us can share and explain in a Jupyter Notebook any python trick that they may have learned or that seemed useful to him/her. The explanation itself should not last more than 10-15 minutes to be enjoyable.
@@ -14,3 +14,12 @@ The calender with the dates and assigned speakers and topics is found in the ![t
 * Repository: Pedro Mas
 * Announcements: Olga Balsalobre-Ruza
 * pycoffee mail list: Jorge Lillo-Box
+
+# Instructions for speakers
+
+If you are a speaker: thanks for sharing your knowledge! Here is a very brief to do list that you should take into account when preparing, executing and sharing your session:
+1. **One week before your session**: Prepare a two sentences and send them to the announcements responsible (see right above) so that   
+2. **Session preparation**:
+   * Prepare 2-minutes of context: what is your module about, science context when it can be applied, etc.
+   * Prepare a Jupyter notebook which includes: installation procedure, and an example on how to use the code.
+3. 
