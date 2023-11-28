@@ -10,8 +10,7 @@ You can access the Spreadsheet circulated (see internal emails)
 The calender with the dates and assigned speakers and topics is found in the ![this link](https://github.com/PyCoffees/calendar). 
 
 ### People
-- Calendar/Topics: Jorge Lillo-Box
-- Repository: Pedro Mas
-- Announcements: Olga Balsalobre-Ruza
-- pycoffee mail list: Jorge Lillo-Box
-
+* Calendar/Topics: Jorge Lillo-Box
+* Repository: Pedro Mas
+* Announcements: Olga Balsalobre-Ruza
+* pycoffee mail list: Jorge Lillo-Box
