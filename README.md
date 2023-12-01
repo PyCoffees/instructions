@@ -7,7 +7,7 @@ Meet for 30 minutes (maximum) on alternate Wednesdays (every two weeks) from 10:
 You can access the Spreadsheet circulated (see internal emails)
 
 ### Calendar
-The calender with the dates and assigned speakers and topics is found in the ![this link](https://github.com/PyCoffees/calendar). 
+The calendar with the dates and assigned speakers and topics can be found [![here](https://img.shields.io/badge/here-click!-white?style=social)]([notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb](https://github.com/PyCoffees/calendar))
 
 ### People
 * Calendar/Topics: Jorge Lillo-Box
