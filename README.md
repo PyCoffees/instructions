@@ -12,7 +12,7 @@ The calendar with the dates and assigned speakers and topics can be found [![her
 ### People
 * Calendar/Topics: Jorge Lillo-Box
 
-* Repository: Pedro Mas &nbsp; [![github.io](https://img.shields.io/badge/Github_Page-pedromasb-blue?style=square&logo=github&labelColor=%237f8082&color=%23e67264)](https://pedromasb.github.io/)
+* Repository: Pedro Mas
 * Announcements: Olga Balsalobre-Ruza
 * pycoffee mail list: Jorge Lillo-Box
 
