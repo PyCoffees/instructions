@@ -4,7 +4,7 @@
 Meet for 30 minutes (maximum) on alternate Wednesdays (every two weeks) from 10:30-11:00 in the Villafranca library so that one of us can share and explain in a Jupyter Notebook any python trick that they may have learned or that seemed useful to him/her. The explanation itself should not last more than 10-15 minutes to be enjoyable.
 
 ### Topics
-You can access the Spreadsheet circulated (see internal emails) and [![here]([https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing](https://img.shields.io/badge/here-click!-white?style=social)](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing)
+You can access the Spreadsheet circulated (see internal emails) and [![here](https://img.shields.io/badge/here-click!-white?style=social)](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing)
 
 ### Calendar
 The calendar with the dates and assigned speakers and topics can be found [![here](https://img.shields.io/badge/here-click!-white?style=social)](https://github.com/PyCoffees/calendar)
