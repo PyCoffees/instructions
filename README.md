@@ -10,10 +10,10 @@ You can access the Spreadsheet circulated (see internal emails) and [![here](htt
 The calendar with the dates and assigned speakers and topics can be found [![here](https://img.shields.io/badge/here-click!-white?style=social)](https://github.com/PyCoffees/calendar)
 
 ### People
-* Calendar/Topics: Jorge Lillo-Box
-* pycoffee mail list: Jorge Lillo-Box
-* Repository: Pedro Mas
-* Announcements & Setup: Carmen Haukes San Lázaro
+* *Calendar/Topics*: Jorge Lillo-Box
+* *Mailing list*: Jorge Lillo-Box
+* *Repository*: Pedro Mas
+* *Announcements & Setup*: Carmen Haukes San Lázaro
 
 # Instructions for speakers
 
@@ -22,5 +22,5 @@ If you are a speaker: thanks for sharing your knowledge! Here is a very brief to
 2. **Session preparation**:
    * Prepare 2-minutes of context: what is your module about, science context when it can be applied, etc.
    * Prepare a Jupyter notebook which includes: installation procedure, and an example on how to use the code.
-   * Email your notebook to the repository manager (Pdedro Mas <pmas@cab.inta-csic.es>) 1-2 days before your talk
+   * Email your notebook to the repository manager (Pdedro Mas) 1-2 days before your talk
 3. **The session**: You have 30 minutes in total for your session, we will make sure you are in time ;) Please leave 5 minutes for questions at the end.
