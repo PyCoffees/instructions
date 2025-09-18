@@ -11,10 +11,9 @@ The calendar with the dates and assigned speakers and topics can be found [![her
 
 ### People
 * Calendar/Topics: Jorge Lillo-Box
-
-* Repository: Pedro Mas
-* Announcements: Olga Balsalobre-Ruza
 * pycoffee mail list: Jorge Lillo-Box
+* Repository: Pedro Mas
+* Announcements & Setup: Carmen Haukes San Lázaro
 
 # Instructions for speakers
 
@@ -23,4 +22,5 @@ If you are a speaker: thanks for sharing your knowledge! Here is a very brief to
 2. **Session preparation**:
    * Prepare 2-minutes of context: what is your module about, science context when it can be applied, etc.
    * Prepare a Jupyter notebook which includes: installation procedure, and an example on how to use the code.
-3. 
+   * Email your notebook to the repository manager (Pdedro Mas <pmas@cab.inta-csic.es>) 1-2 days before your talk
+3. **The session**: You have 30 minutes in total for your session, we will make sure you are in time ;) Please leave 5 minutes for questions at the end.
