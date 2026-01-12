@@ -10,16 +10,14 @@ You can access the Spreadsheet circulated (see internal emails) and [![here](htt
 The calendar with the dates and assigned speakers and topics can be found [![here](https://img.shields.io/badge/here-click!-white?style=social)](https://github.com/PyCoffees/calendar)
 
 ### People
-| Task  | Coordinator |
-| ------------- | ------------- |
-| Library booking | Jorge Lillo-Box |
-| Mailing list | Jorge Lillo-Box |
-| Repository | Pedro Mas |
-| Announcements & Setup | Carmen Haukes |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Task  | Coordinator | Description |
+| ------------- | ------------- | ------------- |
+| Library booking | Jorge Lillo-Box | Book library with Margie every semester (in Decemeber for the period January-June and in June for the period September-December). Once booked, update the [calendar page](https://github.com/PyCoffees/calendar) and the [Spreadsheet](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing) with the dates. |
+| Mailing list | Jorge Lillo-Box | Keep the mailing list updated and request Sergio to add/remove people accordingly |
+| Repository | Pedro Mas | Add the notebooks from the presentations to the [Github repo](https://github.com/PyCoffees/notebooks) | 
+| Announcements & Setup | Carmen Haukes | Send email announcing the next PyCoffee on the Monday before the event. Use both the astrofisica@cab.inta-csic.es and pycoffee@cab.inta-csic.es mailing lists to this end. Help the speaker with the setup. Please start 10 min before. |
+| Looking for speakers | Luis González | Actively talk to different people suggesting to present a topic to fill the schedule.| 
+| Updating the calendar | Luis González | Fill in the [calendar page](https://github.com/PyCoffees/calendar) and the [Spreadsheet](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing) with the information of the speakers and topics agreed. |
 
 
 # Instructions for speakers
