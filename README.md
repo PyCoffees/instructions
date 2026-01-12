@@ -10,10 +10,17 @@ You can access the Spreadsheet circulated (see internal emails) and [![here](htt
 The calendar with the dates and assigned speakers and topics can be found [![here](https://img.shields.io/badge/here-click!-white?style=social)](https://github.com/PyCoffees/calendar)
 
 ### People
-* *Calendar/Topics*: Jorge Lillo-Box
-* *Mailing list*: Jorge Lillo-Box
-* *Repository*: Pedro Mas
-* *Announcements & Setup*: Carmen Haukes San Lázaro
+| Task  | Coordinator |
+| ------------- | ------------- |
+| Library booking | Jorge Lillo-Box |
+| Mailing list | Jorge Lillo-Box |
+| Repository | Pedro Mas |
+| Announcements & Setup | Carmen Haukes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 
 # Instructions for speakers
 
